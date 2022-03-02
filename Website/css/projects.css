@@ -1,0 +1,15 @@
+.art{
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center; 
+}
+.pro{
+    background-color: black;
+    padding-top: 10%;
+}
+.intro{
+    color: white;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,22 @@
+.Image{
+    background-color:black;
+}
+.The{
+    float: center;
+    padding-top: 40px;
+    padding-left: 10px;
+    display:block;
+}
+#Pass{
+    color:blue;
+    text-align: center;
+    text-decoration: underline;
+}
+ol{
+   display: inline;
+   float: center;
+}
+a{
+    padding: 0px 300px 00px 200px;
+    
+}

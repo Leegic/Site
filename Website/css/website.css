@@ -1,0 +1,24 @@
+h1{
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    color:crimson;
+    text-align:center;
+    text-transform: capitalize;
+}
+
+.center{
+    text-align: center;
+    padding-top:20%;  
+}
+.bottom{
+    padding-top: 30%;
+    text-align: center;
+    color:green;
+    text-transform: capitalize;
+}
+.Image{
+    background-color: black;
+}
